@@ -2,7 +2,7 @@
 
 ### Challenge
 
-Advertisers like Nike, spending large sums on networks such as Facebook and Google, find it difficult to determine if a specific targeted customer (e.g., Customer A) actually viewed their ad. This is because ad networks are reluctant or legally unable to share all customer data with advertisers due to privacy concerns [4]. However, these ad networks do want to provide advertisers with more insights to help them optimize their marketing strategies.
+Advertisers like Nike, spending large sums on networks such as Facebook and Google, find it difficult to determine if a specific targeted customer (e.g., Customer A) actually viewed their ad. This is because ad networks are reluctant or legally unable to share all customer data with advertisers due to privacy concerns. However, these ad networks do want to provide advertisers with more insights to help them optimize their marketing strategies.
 
 
 ### The Solution with a DCR
